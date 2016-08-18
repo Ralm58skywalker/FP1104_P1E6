@@ -25,3 +25,8 @@ Fue la primera programadora de la historia. A finales de los años setenta, el D
 
 A los 29 años enfermó gravemente. Tras muchos años de sufrimiento Augusta Ada Byron falleció en Londres el 27 de noviembre de 1852. Byron mantuvo una intensa relación a distancia con su hija y bautizó con el nombre de Ada a muchas de las heroínas de su obra poética. Su cuerpo fue enterrado junto al de su padre al que nunca conoció.
 La técnica de diseño de algoritmos llamada "divide y vencerás" (divide and conquer) consiste en descomponer el problema original en varios sub-problemas más sencillos, para luego resolver éstos mediante un cálculo sencillo. Por último, se combinan los resultados de cada sub-problema para obtener la solución del problema original. 
+2 sqrt(-abs(abs(x)-1)*abs(3-abs(x))/((abs(x)-1)*(3-abs(x))))(1+abs(abs(x)-3)/(abs(x)-
+3))sqrt(1-(x/7)^2)+(5+0.97(abs(x-.5)+abs(x+.5))-3(abs(x-.75)+abs(x+.75)))(1+abs(1-
+abs(x))/(1-abs(x))),-3sqrt(1-(x/7)^2)sqrt(abs(abs(x)-4)/(abs(x)-4)),abs(x/2)-
+0.0913722(x^2)-3+sqrt(1-(abs(abs(x)-2)-1)^2),(2.71052+(1.5-.5abs(x))-1.35526sqrt(4-
+(abs(x)-1)^2))sqrt(abs(abs(x)-1)/(abs(x)-1))+0.9 
